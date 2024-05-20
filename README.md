@@ -37,10 +37,9 @@ Contributing:
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request. Ensure that your code follows the project's coding standards and conventions.
 
-License:
-
-This project is licensed under the MIT License.
 
 Acknowledgements:
+Rise In
+Dapp World
 
 Special thanks to the Soroban team for providing the Soroban SDK and supporting smart contract development on the Soroban blockchain.
